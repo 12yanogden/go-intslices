@@ -1,2 +1,3 @@
-# intslices
-Helper functions for handling int slices.
+# go-intslices
+
+Helper functions for handling int slices in Go.
